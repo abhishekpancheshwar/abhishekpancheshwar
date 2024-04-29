@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Abhishek Panchceshwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 >A passionate frontend developer from India</h3>
+<h1 >Hi 👋, I'm Abhishek Panchceshwar</h1>
 
 
-- 🔭 I’m currently working on **React redux Project**
+# 🔭 I’m currently working on **React Project**
 
-- 🌱 I’m currently learning **React State Management**
+- 🌱 I’m currently learning **React Redux State Management**
 
 - 🤝 I’m looking for help to **upgrade my skills**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **abhishekpancheswar8@gmail.com**
 
