@@ -2,7 +2,7 @@
 <h1 >Hi 👋, I'm Abhishek Panchceshwar</h1>
 
 
-# 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **React Project**
 
 - 🌱 I’m currently learning **React Redux State Management**
 
