@@ -1,5 +1,5 @@
 <h3 >A passionate frontend developer from India</h3>
-<h1 >Hi 👋, I'm Abhishek Panchceshwar</h1>
+<h1 >Hi 👋, I'm Abhishek Pancheshwar</h1>
 
 
 - 🔭 I’m currently working on **React Project**
