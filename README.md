@@ -2,13 +2,13 @@
 <h1 >Hi 👋, I'm Abhishek Pancheshwar</h1>
 
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently building **MERN stack Projects**
 
-- 🌱 I’m currently learning **React Redux State Management**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 🤝 I’m looking for help to **upgrade my skills**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Web developer**
 
 - 📫 How to reach me **abhishekpancheswar8@gmail.com**
 
