@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Panchceshwar</h1>
 <h3 align="center">🌐 MERN Stack Developer | Building Full-Stack Web Applications with MongoDB, Express.js, React, and Node.js 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpancheshwar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpancheshwar" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekpancheshwar" alt="abhishekpancheshwar" /></a> </p>
 
 - 🔭 I’m currently working on [MERN stack projects](https://github.com/abhishekpancheshwar/MERN_EcomGrove)
